@@ -1,4 +1,4 @@
-# Realtime-Collaborative-Code-Editor
+
 # Sync Code: Realtime Collaborative Code Editor
 
 ## Introduction
